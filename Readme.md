@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  📚➡️📊 &nbsp;|&nbsp; Addicted to: learning, helping friends, offline life, and making my cat happy 🐱 &nbsp;|&nbsp; Tolkien lover
+  📚➡️📊 &nbsp;|&nbsp; Addicted to: learning, helping friends, offline life, and making my cat happy 🐱 &nbsp;|&nbsp; Tolkien lover 📖🌋
 </p>
 
 <br>
