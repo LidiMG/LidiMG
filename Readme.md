@@ -13,7 +13,7 @@
 
 ## 🧭 About Me
 
-After **16 years as a Librarian**, I'm transitioning into **Data Analysis, Data Engineering, and Data Governance** — bringing with me something most people entering this field don't have: over a decade of hands-on experience in **information organization, taxonomy, classification, and metadata**, which turned out to be exactly what data governance is built on.
+After **16 years as a Librarian (Bibliotecária)**, I'm transitioning into **Data Analysis, Data Engineering, and Data Governance** — bringing with me something most people entering this field don't have: over a decade of hands-on experience in **information organization, taxonomy, classification, and metadata**, which turned out to be exactly what data governance is built on.
 
 I don't see this as starting over. I see it as **finally naming the skill I've always had.**
 
@@ -64,7 +64,7 @@ I don't see this as starting over. I see it as **finally naming the skill I've a
 | 🧮 [**on33-python-s14-analise-de-dados**](https://github.com/LidiMG/on33-python-s14-analise-de-dados) | Data analysis exercise applying pandas for cleaning, transformation, and exploration |
 | 🌱 [**Mentoria_Artemisia**](https://github.com/LidiMG/Mentoria_Artemisia) | Tracking practices and progress through mentorship with Profa. Artemisia Weyl |
 | 🤖 **Reference Tracker** *(private)* | Python tool (`python-docx`) that compares bibliographic references across `.docx` files — APA, ABNT, and Vancouver formats — with weighted scoring for author, year, and title match |
-| ⚙️ **Job Profile Updater** *(private)* | Playwright-based automation that keeps candidate profiles in sync across job platforms, driven by a single JSON data source |
+| ⚔️ [**Aço & Folha — Event Management App**](https://github.com/LidiMG/Aco-e-Folha) | Full web app (PWA) built for a live event: Google login, real-time purchase tracking, tournament scoring, and automated results, all backed by Google Sheets and deployed on Render |
 
 <p align="left"><i>Plus 15+ additional exercises from the Data Analysis with Python bootcamp (logic, functions, databases, pandas/numpy) — <a href="https://github.com/LidiMG?tab=repositories">see all repositories</a>.</i></p>
 
