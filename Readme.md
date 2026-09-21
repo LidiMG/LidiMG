@@ -17,12 +17,12 @@ After **16 years as a Librarian (Bibliotecária)**, I'm transitioning into **Dat
 
 I don't see this as starting over. I see it as **finally naming the skill I've always had.**
 
-- 🔭 Currently focused on: **Data Analysis & Data Engineering fundamentals**
-- 🌱 Building: **data analysis projects with Python, dashboards, and ML fundamentals**
+- 🔭 Currently focused on: **Data Analysis & Data Engineering fundamentals, and exploring what AI-assisted workflows can do**
+- 🌱 Building: **two independent AI-assisted products — a live event management platform and a medieval-events discovery site**
 - 🎯 Looking for: opportunities in **Data Governance, Data Analysis, or Data Engineering**
-- 🤝 AI enthusiast: I use AI (Claude) as a real workflow partner — from building Python automation scripts to structuring my job search and career materials
+- 🤝 **AI-driven development:** I direct end-to-end product builds using AI (Claude) as my technical execution partner — architecture, business logic, security fixes, and debugging — while I own the product decisions, scope, and stakeholder relationship. Two live examples below.
 - 🗣️ Languages: Portuguese (native), English (C1)
-- 💬 Ask me about: information architecture, taxonomy design, ATS-friendly resumes, or Tolkien lore
+- 💬 Ask me about: AI-assisted product development, taxonomy & information architecture, ATS-friendly resumes, or Tolkien lore
 
 <br>
 
@@ -30,6 +30,8 @@ I don't see this as starting over. I see it as **finally naming the skill I've a
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
@@ -39,7 +41,7 @@ I don't see this as starting over. I see it as **finally naming the skill I've a
   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" />
 </p>
 
-**Core strengths:** Data Analysis with Python (Pandas, NumPy) · Data Cleaning & Transformation · Dashboards & Data Visualization · SQL & Databases · Taxonomy & Metadata Design · Advanced MS Office
+**Core strengths:** Data Analysis with Python (Pandas, NumPy) · Full-Stack Web Development (Flask, PWA) · Firebase (Firestore, Auth, Hosting, Analytics) · Google APIs Integration (Sheets, Drive, OAuth) · Cloud Deployment (Render) · Data Security (input sanitization, access control) · Data Cleaning & Transformation · Dashboards & Data Visualization · SQL & Databases · Taxonomy & Metadata Design · Advanced MS Office
 
 <br>
 
@@ -58,13 +60,18 @@ I don't see this as starting over. I see it as **finally naming the skill I've a
 
 ## 🚀 Featured Projects
 
+> **Highlight:** [**Aço & Folha**](https://github.com/LidiMG/Aco-e-Folha) — a full-stack event management web app (Python/Flask, PWA), built end-to-end for a live medieval-style event: Google login, real-time purchase tracking, four live tournament modules, auto-calculated results, and automated data storage — deployed in production on Render.
+>
+> **Highlight:** [**Eventos Medievais**](https://github.com/LidiMG/Eventos-Medievais) — a discovery platform for medieval-style events across Brazil, with region filtering, manual curation, an exhibitor directory, and automatic language detection (PT/EN/ES) — built on Firebase (Firestore, Auth, Hosting, Analytics). [Live site](https://eventos-medievais.web.app/).
+>
+> Both built with the support of **AI (Claude)** as a development partner throughout the process.
+
 | Project | Description |
 |---|---|
 | 🎓 [**reprograma_On33_Projeto_Final**](https://github.com/LidiMG/reprograma_On33_Projeto_Final) | Final project for the Data Analysis with Python bootcamp (reprograma) — end-to-end analysis applying the concepts from the full program |
 | 🧮 [**on33-python-s14-analise-de-dados**](https://github.com/LidiMG/on33-python-s14-analise-de-dados) | Data analysis exercise applying pandas for cleaning, transformation, and exploration |
 | 🌱 [**Mentoria_Artemisia**](https://github.com/LidiMG/Mentoria_Artemisia) | Tracking practices and progress through mentorship with Profa. Artemisia Weyl |
 | 🤖 **Reference Tracker** *(private)* | Python tool (`python-docx`) that compares bibliographic references across `.docx` files — APA, ABNT, and Vancouver formats — with weighted scoring for author, year, and title match |
-| ⚔️ [**Aço & Folha — Event Management App**](https://github.com/LidiMG/Aco-e-Folha) | Full web app (PWA) built for a live event: Google login, real-time purchase tracking, tournament scoring, and automated results, all backed by Google Sheets and deployed on Render |
 
 <p align="left"><i>Plus 15+ additional exercises from the Data Analysis with Python bootcamp (logic, functions, databases, pandas/numpy) — <a href="https://github.com/LidiMG?tab=repositories">see all repositories</a>.</i></p>
 
