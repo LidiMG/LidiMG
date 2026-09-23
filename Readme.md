@@ -9,6 +9,12 @@
   📚➡️📊 &nbsp;|&nbsp; Addicted to: learning, helping friends, offline life, and making my cat happy 🐱 &nbsp;|&nbsp; Tolkien lover 📖🌋
 </p>
 
+<p align="center">
+  <a href="https://lidimg.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
+
 <br>
 
 ## 🧭 About Me
@@ -80,6 +86,9 @@ I don't see this as starting over. I see it as **finally naming the skill I've a
 ## 📫 Let's Connect
 
 <p align="left">
+  <a href="https://lidimg.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=googlechrome&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/lidianemgomes/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
