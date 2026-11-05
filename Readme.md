@@ -25,7 +25,7 @@ I don't see this as starting over. I see it as **finally naming the skill I've a
 
 - 🔭 Currently focused on: **Data Analysis & Data Engineering fundamentals, and exploring what AI-assisted workflows can do**
 - 🌱 Building: **two independent AI-assisted products — a live event management platform and a medieval-events discovery site**
-- 🎯 Looking for: opportunities in **Data Governance, Data Analysis, or Data Engineering**
+- 💼 Now: **Data Engineering intern at LCGBR**, growing toward **Data Engineering and Data Governance**
 - 🤝 **AI-driven development:** I direct end-to-end product builds using AI (Claude) as my technical execution partner — architecture, business logic, security fixes, and debugging — while I own the product decisions, scope, and stakeholder relationship. Two live examples below.
 - 🗣️ Languages: Portuguese (native), English (C1)
 - 💬 Ask me about: AI-assisted product development, taxonomy & information architecture, ATS-friendly resumes, or Tolkien lore
@@ -47,20 +47,7 @@ I don't see this as starting over. I see it as **finally naming the skill I've a
   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" />
 </p>
 
-**Core strengths:** Data Analysis with Python (Pandas, NumPy) · Full-Stack Web Development (Flask, PWA) · Firebase (Firestore, Auth, Hosting, Analytics) · Google APIs Integration (Sheets, Drive, OAuth) · Cloud Deployment (Render) · Data Security (input sanitization, access control) · Data Cleaning & Transformation · Dashboards & Data Visualization · SQL & Databases · Taxonomy & Metadata Design · Advanced MS Office
-
-<br>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LidiMG&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LidiMG&layout=compact&hide_border=true&theme=default" alt="Top Languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LidiMG&theme=default&hide_border=true" alt="GitHub Streak" />
-</p>
+**Core strengths:** Data Analysis with Python (Pandas, NumPy) · Full-Stack Web Development (Flask, PWA) · Firebase (Firestore, Auth, Hosting, Analytics) · Google APIs Integration (Sheets, Drive, OAuth) · Cloud Deployment (Render) · Data Security (input sanitization, access control) · ETL Processes · Data Cleaning & Transformation · Dashboards & Data Visualization · SQL & PostgreSQL · Taxonomy & Metadata Design · Advanced MS Office
 
 <br>
 
@@ -68,7 +55,9 @@ I don't see this as starting over. I see it as **finally naming the skill I've a
 
 > **Highlight:** [**Aço & Folha**](https://github.com/LidiMG/Aco-e-Folha) — a full-stack event management web app (Python/Flask, PWA), built end-to-end for a live medieval-style event: Google login, real-time purchase tracking, four live tournament modules, auto-calculated results, and automated data storage — deployed in production on Render.
 >
-> **Highlight:** [**Eventos Medievais**](https://github.com/LidiMG/Eventos-Medievais) — a discovery platform for medieval-style events across Brazil, with region filtering, manual curation, an exhibitor directory, and automatic language detection (PT/EN/ES) — built on Firebase (Firestore, Auth, Hosting, Analytics). [Live site](https://eventos-medievais.web.app/).
+> **Highlight:** [**Eventos Medievais**](https://github.com/LidiMG/Eventos-Medievais) — a discovery platform for medieval-style events across Brazil, with region filtering, manual curation, an exhibitor directory, and automatic language detection (PT/EN/ES) — built on Firebase (Firestore, Auth, Hosting, Analytics).
+>
+> 🌐 **Visit the live site:** [eventos-medievais.web.app](https://eventos-medievais.web.app/)
 >
 > Both built with the support of **AI (Claude)** as a development partner throughout the process.
 
