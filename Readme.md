@@ -57,7 +57,7 @@ I don't see this as starting over. I see it as **finally naming the skill I've a
 >
 > **Highlight:** [**Eventos Medievais**](https://github.com/LidiMG/Eventos-Medievais) — a discovery platform for medieval-style events across Brazil, with region filtering, manual curation, an exhibitor directory, and automatic language detection (PT/EN/ES) — built on Firebase (Firestore, Auth, Hosting, Analytics).
 >
-> 🌐 **Visit the live site:** [eventos-medievais.web.app](https://eventos-medievais.web.app/)
+> 🌐 **Visit the live site:** [eventosmedievais.com.br](https://eventosmedievais.com.br/)
 >
 > Both built with the support of **AI (Claude)** as a development partner throughout the process.
 
